@@ -6,14 +6,14 @@ Welcome to my repository containing self prepared notes on various topics of Mac
 
 The topics covered in these notes include:
 
-- [Handling Missing Values](https://ayushsonuu.github.io/MacineLearningSelf/HandlingMissingValues01.md)
-- [Important Links](https://ayushsonuu.github.io/MacineLearningSelf/Important.Links.md)
-- [OneHot Encoding](https://ayushsonuu.github.io/MacineLearningSelf/OneHotEncoding.md)
-- [Types of Encoding Techniques](https://ayushsonuu.github.io/MacineLearningSelf/TypesOfEncodingTechniques.md)
-- [Why Feature Scaling](https://ayushsonuu.github.io/MacineLearningSelf/WhyFeatureScaling.md)
-- [Count Offrequency Encoding](https://ayushsonuu.github.io/MacineLearningSelf/countOffrequencyEncoding.md)
-- [Feature Transformation](https://ayushsonuu.github.io/MacineLearningSelf/featureTransformation.md)
-- [UnivariateBivariateMultivariate](https://ayushsonuu.github.io/MacineLearningSelf/UnivariateBivariateMultivariate.md)
+- [Handling Missing Values](https://ayushsonuu.github.io/MacineLearningSelf/HandlingMissingValues01)
+- [Important Links](https://ayushsonuu.github.io/MacineLearningSelf/Important.Links)
+- [OneHot Encoding](https://ayushsonuu.github.io/MacineLearningSelf/OneHotEncoding)
+- [Types of Encoding Techniques](https://ayushsonuu.github.io/MacineLearningSelf/TypesOfEncodingTechniques)
+- [Why Feature Scaling](https://ayushsonuu.github.io/MacineLearningSelf/WhyFeatureScaling)
+- [Count Offrequency Encoding](https://ayushsonuu.github.io/MacineLearningSelf/countOffrequencyEncoding)
+- [Feature Transformation](https://ayushsonuu.github.io/MacineLearningSelf/featureTransformation)
+- [UnivariateBivariateMultivariate](https://ayushsonuu.github.io/MacineLearningSelf/UnivariateBivariateMultivariate)
 
 ## How to Use These Notes
 
