@@ -40,7 +40,7 @@ The resulting dataset would look like this:
 
 - One-hot encoding is straightforward to implement.
 - It does not require knowledge of the underlying data distribution.
-- It does not expand the feature space massively.
+- It does  expand the feature space massively.
 
 ## Disadvantages of one-hot encoding
 
