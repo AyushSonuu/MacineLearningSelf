@@ -6,14 +6,18 @@ Welcome to my repository containing self prepared notes on various topics of Mac
 
 The topics covered in these notes include:
 
+
 - [Handling Missing Values](https://ayushsonuu.github.io/MacineLearningSelf/HandlingMissingValues01)
-- [Important Links](https://ayushsonuu.github.io/MacineLearningSelf/Important.Links)
+
 - [OneHot Encoding](https://ayushsonuu.github.io/MacineLearningSelf/OneHotEncoding)
+
 - [Types of Encoding Techniques](https://ayushsonuu.github.io/MacineLearningSelf/TypesOfEncodingTechniques)
 - [Why Feature Scaling](https://ayushsonuu.github.io/MacineLearningSelf/WhyFeatureScaling)
 - [Count Offrequency Encoding](https://ayushsonuu.github.io/MacineLearningSelf/countOffrequencyEncoding)
 - [Feature Transformation](https://ayushsonuu.github.io/MacineLearningSelf/featureTransformation)
 - [UnivariateBivariateMultivariate](https://ayushsonuu.github.io/MacineLearningSelf/univariateBivariateMultiVariate)
+
+## [Important Links To Dive Deep Click Me](https://ayushsonuu.github.io/MacineLearningSelf/ImportantLinks)
 
 ## How to Use These Notes
 
