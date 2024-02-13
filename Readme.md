@@ -13,7 +13,7 @@ The topics covered in these notes include:
 - [Why Feature Scaling](https://ayushsonuu.github.io/MacineLearningSelf/WhyFeatureScaling)
 - [Count Offrequency Encoding](https://ayushsonuu.github.io/MacineLearningSelf/countOffrequencyEncoding)
 - [Feature Transformation](https://ayushsonuu.github.io/MacineLearningSelf/featureTransformation)
-- [UnivariateBivariateMultivariate](https://ayushsonuu.github.io/MacineLearningSelf/UnivariateBivariateMultivariate)
+- [UnivariateBivariateMultivariate](https://ayushsonuu.github.io/MacineLearningSelf/univariateBivariateMultiVariate)
 
 ## How to Use These Notes
 
